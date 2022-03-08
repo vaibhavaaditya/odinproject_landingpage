@@ -142,17 +142,18 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 80px 200px;
+    margin: 80px 100px;
 }
 
 .call{
     background-color: #3882F6;
     color: #E5E7EB;
-    padding: 50px 250px;    
+    padding: 50px 120px;   
     display: flex;
-    border-radius: 1em;
     justify-content: space-between;
+    gap: 80px;
     align-items: flex-end;
+    border-radius: 0.5em;
 }
 
 .call button{
@@ -162,6 +163,7 @@ a{
     color: #E5E7EB;
     background-color: inherit;
 }
+
 
 
 .footer{
